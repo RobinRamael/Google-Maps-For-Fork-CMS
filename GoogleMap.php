@@ -40,7 +40,7 @@
 
 /**
  * For the fork cms adaptation:
- * @link github.com/robinramael/GoogleMaps_for_ForkCMS
+ * @link github.com/RobinRamael/Google-Maps-For-Fork-CMS/
  * @copyright 2012 Robin Ramael
  * @author Robin Ramael
  *
